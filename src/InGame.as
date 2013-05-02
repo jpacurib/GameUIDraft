@@ -51,7 +51,7 @@ package
 			btnPause.x = 0;
 			btnBack.x = btnBackMainMenu.x;
 			
-			btnResume.y = 150;
+			btnResume.y = 300;
 			btnSettings.y = btnResume.y + 75;
 			btnBackMainMenu.y = btnSettings.y + 75;
 			btnPause.y = 0;
@@ -62,6 +62,7 @@ package
 			btnSettings.addEventListener(Event.TRIGGERED, onSettingsEvent);
 			btnBackMainMenu.addEventListener(Event.TRIGGERED, onBackMainMenuEvent);
 			btnBack.addEventListener(Event.TRIGGERED, onBackEvent);
+			
 			
 		}
 		
@@ -88,6 +89,11 @@ package
 		
 		private function onSettingButtons():void 
 		{
+			//var settingUI:GameUI = new GameUI();
+			
+			//addChild(settingUI.tabQuality);
+			//addChild(settingUI.sliderVolume);
+			//addChild(settingUI.labelVol);
 			this.addChild(btnBack);
 		}
 		

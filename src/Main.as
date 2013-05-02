@@ -8,7 +8,7 @@ package
 	 * ...
 	 * @author Jeremy
 	 */
-	[SWF(width="640", height="480", frameRate="30", backgroundColor="#FFFFFF")]
+	[SWF(width="1024", height="768", frameRate="60", backgroundColor="#FFFFFF")]
 	public class Main extends Sprite 
 	{
 		private var myStarling:Starling;

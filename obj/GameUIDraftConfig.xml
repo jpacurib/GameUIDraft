@@ -16,7 +16,7 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'5/1/2013'</value>
+      <value>'5/2/2013'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -32,17 +32,21 @@
     </define>
     <verbose-stacktraces>true</verbose-stacktraces>
     <source-path append="true">
-      <path-element>C:\Documents and Settings\OJT\Desktop\DoK\GameUIDraft\src</path-element>
-      <path-element>C:\Documents and Settings\OJT\Desktop\Experiments\Libraries\PrimaryFeather-Starling-Framework-v1.3-0-g0ac3592\PrimaryFeather-Starling-Framework-0ac3592\starling\src</path-element>
-      <path-element>C:\Documents and Settings\OJT\Desktop\Experiments\Libraries\feathers-1.0.1\swc</path-element>
+      <path-element>C:\Users\OJT\GameUIDraft\src</path-element>
+      <path-element>C:\Users\OJT\feathers-1.0.1\swc</path-element>
+      <path-element>C:\Users\OJT\feathers-1.0.1\themes\MetalWorksMobileTheme\source</path-element>
+      <path-element>C:\Users\OJT\New folder\Downloads\downloaded\PrimaryFeather-Starling-Framework-0ac3592\starling\src</path-element>
+      <path-element>C:\Users\OJT\New folder\Downloads\PrimaryFeather-Starling-Framework-0ac3592</path-element>
+      <path-element>C:\Users\OJT\New folder\Downloads\feathers-master\feathers-master</path-element>
+      <path-element>C:\Users\OJT\New folder\Downloads\feathers-1.0.1</path-element>
       <path-element>C:\Program Files\FlashDevelop\Library\AS3\classes</path-element>
     </source-path>
     <library-path append="true">
-      <path-element>C:\Documents and Settings\OJT\Desktop\Experiments\Libraries\feathers-1.0.1\swc\feathers.swc</path-element>
+      <path-element>C:\Users\OJT\feathers-1.0.1\swc\feathers.swc</path-element>
     </library-path>
   </compiler>
   <file-specs>
-    <path-element>C:\Documents and Settings\OJT\Desktop\DoK\GameUIDraft\src\Main.as</path-element>
+    <path-element>C:\Users\OJT\GameUIDraft\src\Main.as</path-element>
   </file-specs>
   <default-background-color>#FFFFFF</default-background-color>
   <default-frame-rate>30</default-frame-rate>
